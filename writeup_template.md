@@ -36,9 +36,7 @@ Above steps are to be followed from jupyter notebook for this project
 
 ### Data Set Summary & Exploration
 
-#### 1. 
-I used the pandas shape methodd to calculate summary statistics of the traffic
-signs data set:
+#### 1. I used the pandas shape methodd to calculate summary statistics of the traffic signs data set:
 
 * The size of training set is  34799
 * The size of the validation set is  4410
